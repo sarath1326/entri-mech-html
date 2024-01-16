@@ -95,7 +95,7 @@ h4{
 .content-main{
 
     width: 100%;
-    height: 500px;
+    height: 900px;
     background-color:rgb(221, 247, 243);
 }
 
@@ -125,4 +125,103 @@ h4{
 
     color: blue;
 }
+
+.ani{
+
+    width: 200px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.tagline-box-main{
+
+    width: 700px;
+    height: 150px;
+    /* background-color: aqua; */
+    margin-left: 400px;
+}
+
+
+.box {
+  width:95rem;
+  height: 50rem;
+  background-image: linear-gradient(to bottom, #b2c0d4, #b6d0da, #c5dddc, #dbe9e0, #f1f4ea);
+  
+  border-radius: 50rem 50rem 0 0;
+ 
+  }
+
+  .tagline-text{
+
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .circel-main-left{
+    position: absolute;
+
+      width: 200px;
+      height: 200px;
+      background-color: rgb(56, 7, 214);
+      border-radius: 400px 1000px 400px 400px;
+      left: 300px;
+  }
+
+
+  .circel-main-right{
+
+    position: absolute;
+
+      width: 200px;
+      height: 200px;
+      background-color: rgb(243, 162, 13);
+      border-radius: 1000px 400px 400px 400px;
+      right: 300px;
+     
+      
+
+
+  }
+
+  .image-left{
+
+    position: absolute;
+    left:230px;
+    top: 300px;
+    width: 350px;
+    height: 350px;
+  }
+
+
+  .image-right{
+
+    position: absolute;
+    right: 250px;
+    width: 300px;
+    height: 300px;
+    top: 300px;
+     
+  }
+
+  .box-heding-box-main{
+
+    width:100%;
+    height: 500px;
+    /* background-color: rgb(104, 104, 105); */
+    padding-top: 200px;
+ 
+}
+
+.box-text{
+
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+ 
+
 
