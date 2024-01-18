@@ -207,7 +207,7 @@ h4{
   .box-heding-box-main{
 
     width:100%;
-    height: 500px;
+    height: 400px;
     /* background-color: rgb(104, 104, 105); */
     padding-top: 200px;
  
@@ -221,7 +221,291 @@ h4{
     
 }
 
+.select{
 
- 
+    width: 350px;
+    height: 50px;
+    margin-left: 580px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: 3px solid rgb(60, 60, 134);
+}
+
+.product-show-main{
+
+     width: 700px;
+     height: 300px;
+     /* background-color: rgb(240, 138, 138); */
+     margin-left: 400px;
+     display: flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+     margin-top: 30px;
+    
+     
+}
+
+.product-box{
+     width: 250px;
+     height: 330px;
+     /* background-color:rgb(119, 114, 114); */
+     background-color:rgb(255, 253, 253);
+     border-radius: 10px;
+     padding-top: 10px;
+     border-radius: 20px;
+}
+
+.product-box:hover{
+
+    box-shadow: 0 0 5px #a3a1a1;
+
+     
+}
+
+
+
+
+.products-img-box{
+
+    width: 200px;
+    height: 200px;
+   
+    margin-left: 25px;
+    padding-top: 10px;
+
+
+}
+
+.new-box{
+
+
+    width: 50px;
+    height: 20px;
+    background-color: rgb(207, 227, 245);
+    border-radius: 10px;
+    margin-left:140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.pro-des{
+
+     margin-top: 20px;
+     font-size: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-left: 10px;
+}
+
+
+.pro-under-box{
+
+    width: 100%;
+    height: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:space-around;
+}
+
+
+.grm-box{
+
+     width: 50px;
+     height: 20px;
+     background-color: rgb(180, 180, 247);
+     border-radius: 10px;
+     margin-top: 20px;
+}
+
+.arrow-div{
+
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color:rgb(180, 180, 247);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+}
+
+
+.last-btn-box{
+
+    width: 100%;
+    height: 100px;
+    /* background-color: aquamarine; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-btn-tex{
+
+    width: 200px;
+    height: 50px;
+    background-color: rgb(46, 46, 135);
+    border-radius: 10px;
+   color: white;
+   font-weight: bold;
+   margin-top: 50px;
+
+}
+
+.last-tag-line{
+
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+
+
+.resepe-box-main{
+
+
+     width: 100%;
+     height: 500px;
+     /* background-color: aqua; */
+}
+
+.resepe-box-hed-text{
+
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.resepe-box-box-text{
+
+      color: blue;
+      margin-left: 20px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: rgb(190, 190, 248);
+      border-radius: 10px;
+      font-size: 10px;
+    
+    }
+
+
+    .respe-des-box-main{
+
+   width: 100%;
+   height: 280px;
+   /* background-color: rgb(236, 181, 17); */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+}
+
+
+
+.respe-des-box{
+
+    width: 350px;
+    height: 250px;
+    background-color: rgb(8, 8, 141);
+    border-radius: 10px;
+
+
+}
+
+.respe-image-box{
+
+    width: 200px;
+    height: 250px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 10px;
+
+
+
+}
+
+
+.footer-icon-box-main{
+
+    width: 100%;
+    height: 200px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-main{
+
+    width: 100%;
+    height: 400px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.footer-detailbox{
+
+    width: 1000px;
+    height: 320px;
+    background-color: #b2c0d4;
+    border-radius: 10px;
+    
+}
+
+
+.footer-btn{
+
+     width: 80px;
+     height: 25px;
+     background-color: rgb(169, 169, 234);
+     margin-left: 10px;
+     border-radius: 10px;
+     color: rgb(6, 6, 110);
+     border: none;
+     font-weight: bolder;
+}
+
+
+.last-box-main{
+
+    width: 950px;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 25px;
+    display: flex;
+    
+}
+
+.last-text-box{
+
+    width:700px;
+    height: 100%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    
+}
+
+.last-icon-box{
+
+    width: 300px;
+    height: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+}
+
+
 
 
